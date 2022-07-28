@@ -57,6 +57,7 @@ class ParentWindow(Frame):
         for i in source_files:
             file_path = os.path.join(source, i)
             hours_ago_24 = datetime.now() - timedelta(hours = 24)
+            time = os.path.getmtime(file_path)
             date_time_of_file = datetime.fromtimestamp(time)
             if hours_ago_24 < date_time_of_file:
                 #moves file to destination
