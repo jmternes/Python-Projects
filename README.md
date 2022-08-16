@@ -21,10 +21,6 @@
 ### File Transfer GUI
 #### This project leverages the Python module Tkinter to create a GUI that allows the user to choose all .txt files from one directory, and move them to another of their choice.
 
-
-#### This project functions as a phonebook for a user. It saves a contact's name, phone number, and email address in a database, and gives the user the capability to update and delete entries.
-
-
 ### Banking App
 #### This project, built with Django, acts as a pseudo-banking app for a user. They can check their balance, deposit or withdraw funds, and their data is saved as an account under the name they give.
 
