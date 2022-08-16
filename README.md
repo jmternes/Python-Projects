@@ -10,7 +10,7 @@
 ### [Banking App](https://github.com/jmternes/Django_Checkbook_Project)
 ### [Web Page Generator](https://github.com/jmternes/Python-Projects/blob/main/web_page_generator.py)
 
-
+<hr>
 
 ### Nice or Mean Game
 
